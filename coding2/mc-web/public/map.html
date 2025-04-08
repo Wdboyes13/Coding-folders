@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/image-map-resizer/1.0.10/js/imageMapResizer.min.js"></script>
+    <style>
+        img {
+            width: 80%;  /* Resize image proportionally */
+            height: auto; /* Maintain aspect ratio */
+            display: block;
+            margin: auto; /* Center the image */
+        }
+
+    </style>
+</head>
+<body>
+    <h1 id="name"></h1>
+    <img src="map.png", usemap="#image-map">
+    <map name="image-map">
+        <area target="" alt="wills house" title="wills house" coords="922,99,1073,117,1073,242,1026,247,1015,174,919,184" shape="poly">
+        <area target="" alt="Casino" title="Casino" coords="1491,1273,1652,1278,1657,1377,1691,1385,1693,1548,1610,1546,1610,1522,1517,1522,1512,1418,1486,1424" shape="poly">
+        <area target="" alt="Lowes" title="Lowes" coords="1675,1289,1808,1369" shape="rect">
+        <area target="" alt="7/11" title="7/11" coords="1828,1252,1831,1444,2000,1447,2000,1348,1932,1348,1930,1255" shape="poly">
+        <area target="" alt="Town hall" title="Town hall" coords="1234,1424,1236,1465,1304,1460,1306,1418,1395,1413,1392,1343,1335,1338,1327,1278,1254,1278,1234,1278,1228,1346,1200,1346,1202,1426" shape="poly">
+        <area target="" alt="Sharestones" title="Sharestones" coords="1062,1535,1166,1502,1166,1481,1062,1507,1065,1473,1088,1442,1041,1431,979,1491,982,1590,1049,1587" shape="poly">
+        <area target="" alt="Farms" title="Farms" coords="1028,995,1044,1213,891,1221,886,1037,865,1034,860,1101,706,1107,704,1055,665,1055,662,1104,535,1112,530,1050,499,1107,439,1055,434,847,540,860,543,985,597,982,610,930,647,930,657,852,748,842,748,813,870,805,878,733,932,735,938,600,1034,603,1047,837,1127,844,1130,868,1114,899,1031,901" shape="poly">
+        <area target="" alt="Tristans house" title="Tristans house" coords="592,870,587,977,551,977,548,875" shape="poly">
+        <area target="" alt="Isolation chamber" title="Isolation chamber" coords="1402,1515,1353,1611" shape="rect">
+        <area target="" alt="Church" title="Church" coords="1548,1618,1649,1618,1654,1829,1615,1881,1556,1831" shape="poly">
+        <area target="" alt="Goondonalds" title="Goondonalds" coords="1036,992,1070,987,1083,1068,1262,1070,1262,907,1195,899,1190,873,1135,878,1119,899,1034,899" shape="poly">
+        <area target="" alt="Prison" title="Prison" coords="1870,725,1828,722,1818,743,1792,709,1779,652,1800,644,1878,644,1925,621,1966,587,1974,694" shape="poly">
+        <area target="" alt="Enchantment room" title="Enchantment room" coords="1086,644,1088,681,1122,681,1122,642" shape="poly">
+        <area target="" alt="Portal" title="Portal" coords="1444,1504,1444,1548,1488,1541,1480,1502" shape="poly">
+        <area target="" alt="Voting chamber" title="Voting chamber" coords="1389,1016,1389,1151,1506,1148,1499,1008" shape="poly">
+        <area target="" alt="National park" title="National park" coords="1249,790,1249,774,1228,774,1226,720,1252,714,1252,691,1236,647,1247,600,1299,587,1304,548,1195,546,1187,403,1210,361,1345,351,1351,418,1361,426,1377,499,1405,553,1410,592,1473,592,1470,517,1571,509,1571,590,1535,585,1535,621,1483,629,1410,629,1410,673,1444,683,1286,683,1283,717,1319,727,1322,761,1358,766,1364,800" shape="poly">
+        <area target="" alt="Andys house" title="Andys house" coords="854,394,860,557,977,555,979,396" shape="poly">
+        <area target="" alt="Goonotels" title="Goonotels" coords="1177,808,1177,860,1200,873,1200,894,1244,894,1254,878,1293,870,1306,883,1345,888,1343,821,1361,803,1254,785" shape="poly">
+        <area target="" alt="Post office" title="Post office" coords="1382,805,1483,899" shape="rect">
+        <area target="" alt="Toms house" title="Toms house" coords="1275,1216,1226,1216,1226,1252,1125,1263,1122,1172,1221,1169,1231,1156,1270,1156" shape="poly">
+        <area target="" alt="Beacon" title="Beacon" coords="1421,948,1415,1008,1366,1011,1366,951" shape="poly">
+        <area target="" alt="Beacon 2" title="Beacon 2" coords="434,403,397,429,322,436,231,346,223,304,260,283,319,288,351,294,434,353" shape="poly">
+        <area target="" alt="Arena" title="Arena" coords="1602,1057,1561,1101,1563,1140,1602,1185,1675,1185,1709,1161,1706,1088,1675,1060" shape="poly">
+    </map>
+    <script>
+        console.log("Script loaded");
+        document.addEventListener("DOMContentLoaded", function () {
+            imageMapResize(); // Resizes the map automatically!
+        });
+
+
+        document.addEventListener("DOMContentLoaded", function() {
+            const nameElement = document.getElementById("name");
+            console.log("Name element:", nameElement);
+    
+            const locations = {
+                "wills house": "William's House",
+                "Casino": "Casino",
+                "Lowes": "Lowes",
+                "7/11": "7/11",
+                "Town hall": "Town Hall",
+                "Sharestones": "Sharestone Hub",
+                "Farms": "Farms",
+                "Tristans house": "Tristan's House",
+                "Isolation chamber": "Isolation Chamber",
+                "Church": "Church of Gonner",
+                "Goondonalds": "Goondonalds",
+                "Prison": "Prison",
+                "Enchantment room": "Enchantment Room",
+                "Portal": "Nether Portal",
+                "Voting chamber": "Voting Chamber",
+                "National park": "National Park",
+                "Andys house": "Andy's House",
+                "Goonotels": "Goonotels",
+                "Post office": "Post Office",
+                "Toms house": "Tom's House",
+                "Beacon": "Beacon",
+                "Beacon 2": "Beacon 2",
+                "Arena": "Arena"
+            };
+    
+            document.querySelectorAll("area").forEach(area => {
+                area.addEventListener("mouseover", function() {
+                    const title = this.getAttribute("title");
+                    nameElement.innerText = locations[title] || title;
+                });
+            });
+        });
+    </script>
+    
+</body>
+</html>

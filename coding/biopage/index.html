@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>William :3</title>
+    <style>
+        flags {
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <center>
+        <h1>William</h1>
+        <h3>He/They</h3>
+        <p id="time"></p>
+        <p>About me:</p>
+        <p>Hi! i'm william. I'm autistic and 13 years old.</p>
+        <p>I love computer programming and i play tenor sax in band</p>
+        <h4>My Flags</h4>
+    </center>
+    <center>
+        <image src="canadaflag.png" style="width:300px;height:150px;" id="flags"></image>
+        <image src="bcflag.png" style="width:250px;height:150px;" id="flags"></image>
+        <image src="panflag.png" style="width:250px;height:150px;" id="flags"></image>
+        <image src="demiboyflag.png" style="width:250px;height:150px;" id="flags"></image>
+    </center>
+    <p><span style="margin-left: 8.5cm;">Canada</span><span style="margin-left: 5.3cm;">British Columbia</span><span style="margin-left: 4.5cm;">Pansexual</span><span style="margin-left: 5cm;">Demiboy</span></p>
+    <center>
+    <a href="https://discord.com/users/1143325765421781043>">My discord!</a>
+    <a href="https://www.reddit.com/user/HappyHuman4123/">My reddit profile! <br></a>
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/79aRkLnoaJ7FOoC3HgFFR7?utm_source=generator" width="25%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    <iframe style="border-radius:12px" src="https://beatleader.com/u/monkay/scores/date/asc/1" width="25%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </center>
+    <script>   
+        let date = new Date();
+        let timezoneOffset = date.getTimezoneOffset();
+        let pstOffset = -480;
+        let adjustedTime = new Date(date.getTime() + (pstOffset + timezoneOffset) * 60 * 1000);
+
+        let options = {
+            day: 'numeric',
+            month: 'numeric',
+            year: 'numeric',
+            hour: 'numeric',
+            minute: 'numeric',
+            timeZone: 'America/Los_Angeles'
+        };
+        let pstDateTime = adjustedTime.toLocaleString('en-US', options);
+        document.getElementById("time").innerText = "My time: " + pstDateTime;
+
+        function autoRefresh() {
+            window.location = window.location.href;
+        }
+        setInterval('autoRefresh()', 60000);
+
+    </script>
+</body>
+</html>
