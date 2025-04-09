@@ -1,1 +1,0 @@
-python3 /Users/william/Documents/coding/scode/main.py $1

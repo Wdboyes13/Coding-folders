@@ -1,3 +1,0 @@
-basically make a system in python and maybe also json to search through your books
-
-use data exported from librarything
