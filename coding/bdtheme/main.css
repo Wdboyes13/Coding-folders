@@ -1,0 +1,13 @@
+/**
+ * @name SFfont
+ * @author YourName
+ * @description Changes font to apples SF Pro Bold
+ * @version 0.0.1
+ */
+ @font-face {
+    font-family: "SF Pro Bold Rounded";
+    src: 'fonts/SF-Pro-Rounded-Bold.ttf';
+  }
+ :root {
+    font-family: 'SF Pro Bold Rounded';
+ }

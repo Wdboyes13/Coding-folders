@@ -1,0 +1,2 @@
+words = ["fuck", "ass", "shit", "dick", "cock", "hoe", "whore", "slut", "pussy", "bitch", "cocksucker", "dumb ass"]
+slurs = ["nigger", "nigga", "faggot", "fag", "retard", "ching chong", "border hopper"]

@@ -1,0 +1,1762 @@
+1 Coding-folders/.git
+2 Coding-folders/.git/hooks
+3 Coding-folders/.git/info
+4 Coding-folders/.git/logs
+5 Coding-folders/.git/logs/refs
+6 Coding-folders/.git/logs/refs/heads
+7 Coding-folders/.git/logs/refs/remotes
+8 Coding-folders/.git/logs/refs/remotes/origin
+9 Coding-folders/.git/objects
+10 Coding-folders/.git/objects/06
+11 Coding-folders/.git/objects/2e
+12 Coding-folders/.git/objects/51
+13 Coding-folders/.git/objects/b6
+14 Coding-folders/.git/objects/cb
+15 Coding-folders/.git/objects/d9
+16 Coding-folders/.git/objects/info
+17 Coding-folders/.git/objects/pack
+18 Coding-folders/.git/refs
+19 Coding-folders/.git/refs/heads
+20 Coding-folders/.git/refs/remotes
+21 Coding-folders/.git/refs/remotes/origin
+22 Coding-folders/.git/refs/tags
+23 Coding-folders/.github
+24 Coding-folders/coding
+25 Coding-folders/coding/.vscode
+26 Coding-folders/coding/Encourage
+27 Coding-folders/coding/Encourage/Encourage
+28 Coding-folders/coding/Encourage/Encourage/Assets.xcassets
+29 Coding-folders/coding/Encourage/Encourage/Assets.xcassets/AccentColor.colorset
+30 Coding-folders/coding/Encourage/Encourage/Assets.xcassets/AppIcon.appiconset
+31 Coding-folders/coding/Encourage/Encourage/Preview Content
+32 Coding-folders/coding/Encourage/Encourage/Preview Content/Preview Assets.xcassets
+33 Coding-folders/coding/Encourage/Encourage.xcodeproj
+34 Coding-folders/coding/Encourage/Encourage.xcodeproj/project.xcworkspace
+35 Coding-folders/coding/Encourage/Encourage.xcodeproj/project.xcworkspace/xcshareddata
+36 Coding-folders/coding/Encourage/Encourage.xcodeproj/project.xcworkspace/xcuserdata
+37 Coding-folders/coding/Encourage/Encourage.xcodeproj/project.xcworkspace/xcuserdata/william.xcuserdatad
+38 Coding-folders/coding/Encourage/Encourage.xcodeproj/xcuserdata
+39 Coding-folders/coding/Encourage/Encourage.xcodeproj/xcuserdata/william.xcuserdatad
+40 Coding-folders/coding/Encourage/Encourage.xcodeproj/xcuserdata/william.xcuserdatad/xcdebugger
+41 Coding-folders/coding/Encourage/Encourage.xcodeproj/xcuserdata/william.xcuserdatad/xcschemes
+42 Coding-folders/coding/Encourage/EncourageTests
+43 Coding-folders/coding/Encourage/EncourageUITests
+44 Coding-folders/coding/Encouragerl
+45 Coding-folders/coding/Encouragerl/Encourage.app
+46 Coding-folders/coding/Encouragerl/Encourage.app/Contents
+47 Coding-folders/coding/Encouragerl/Encourage.app/Contents/MacOS
+48 Coding-folders/coding/Encouragerl/Encourage.app/Contents/_CodeSignature
+49 Coding-folders/coding/HomeRoomPy
+50 Coding-folders/coding/MacLandmarks
+51 Coding-folders/coding/MacLandmarks/MacLandmarks
+52 Coding-folders/coding/MacLandmarks/MacLandmarks/MacLandmarks
+53 Coding-folders/coding/MacLandmarks/MacLandmarks/MacLandmarks/Assets.xcassets
+54 Coding-folders/coding/MacLandmarks/MacLandmarks/MacLandmarks/Assets.xcassets/AccentColor.colorset
+55 Coding-folders/coding/MacLandmarks/MacLandmarks/MacLandmarks/Assets.xcassets/AppIcon.appiconset
+56 Coding-folders/coding/MacLandmarks/MacLandmarks/MacLandmarks/Preview Content
+57 Coding-folders/coding/MacLandmarks/MacLandmarks/MacLandmarks/Preview Content/Preview Assets.xcassets
+58 Coding-folders/coding/MacLandmarks/MacLandmarks/MacLandmarks.xcodeproj
+59 Coding-folders/coding/MacLandmarks/MacLandmarks/MacLandmarks.xcodeproj/project.xcworkspace
+60 Coding-folders/coding/MacLandmarks/MacLandmarks/MacLandmarks.xcodeproj/project.xcworkspace/xcuserdata
+61 Coding-folders/coding/MacLandmarks/MacLandmarks/MacLandmarks.xcodeproj/project.xcworkspace/xcuserdata/william.xcuserdatad
+62 Coding-folders/coding/MacLandmarks/MacLandmarks/MacLandmarks.xcodeproj/xcuserdata
+63 Coding-folders/coding/MacLandmarks/MacLandmarks/MacLandmarks.xcodeproj/xcuserdata/william.xcuserdatad
+64 Coding-folders/coding/MacLandmarks/MacLandmarks/MacLandmarks.xcodeproj/xcuserdata/william.xcuserdatad/xcschemes
+65 Coding-folders/coding/MacLandmarks/MacLandmarks/MacLandmarksTests
+66 Coding-folders/coding/MacLandmarks/MacLandmarks/MacLandmarksUITests
+67 Coding-folders/coding/MoneyCalc
+68 Coding-folders/coding/MoneyCalc/MoneyCalculator.app
+69 Coding-folders/coding/MoneyCalc/MoneyCalculator.app/Contents
+70 Coding-folders/coding/MoneyCalc/MoneyCalculator.app/Contents/MacOS
+71 Coding-folders/coding/MoneyCalc/MoneyCalculator.app/Contents/_CodeSignature
+72 Coding-folders/coding/MoneyCalc/idfkwtfthisis.app
+73 Coding-folders/coding/MoneyCalc/idfkwtfthisis.app/Contents
+74 Coding-folders/coding/MoneyCalc/idfkwtfthisis.app/Contents/MacOS
+75 Coding-folders/coding/MoneyCalc/idfkwtfthisis.app/Contents/_CodeSignature
+76 Coding-folders/coding/MoneyCalculator
+77 Coding-folders/coding/MoneyCalculator/MoneyCalculator.app
+78 Coding-folders/coding/MoneyCalculator/MoneyCalculator.app/Contents
+79 Coding-folders/coding/MoneyCalculator/MoneyCalculator.app/Contents/MacOS
+80 Coding-folders/coding/MoneyCalculator/MoneyCalculator.app/Contents/_CodeSignature
+81 Coding-folders/coding/Music player
+82 Coding-folders/coding/Window Switching
+83 Coding-folders/coding/andypyrpg
+84 Coding-folders/coding/asciigame
+85 Coding-folders/coding/badwordgen
+86 Coding-folders/coding/badwordgen/__pycache__
+87 Coding-folders/coding/bdtheme
+88 Coding-folders/coding/biopage
+89 Coding-folders/coding/chances
+90 Coding-folders/coding/cppa
+91 Coding-folders/coding/dict
+92 Coding-folders/coding/dsicnamesave
+93 Coding-folders/coding/fordvincheck
+94 Coding-folders/coding/fordvincheck/f1502021
+95 Coding-folders/coding/fractiongame
+96 Coding-folders/coding/fractiongame/src
+97 Coding-folders/coding/fractiongame/src/fractiongame
+98 Coding-folders/coding/frequencylist
+99 Coding-folders/coding/idfkwtfthisis
+100 Coding-folders/coding/libpy
+101 Coding-folders/coding/morning
+102 Coding-folders/coding/orgST
+103 Coding-folders/coding/orgST/orgST
+104 Coding-folders/coding/passman
+105 Coding-folders/coding/passmana
+106 Coding-folders/coding/passmana/bin
+107 Coding-folders/coding/passmana/lib
+108 Coding-folders/coding/passmana/lib/python3.13
+109 Coding-folders/coding/passmana/lib/python3.13/site-packages
+110 Coding-folders/coding/passmana/lib/python3.13/site-packages/cffi
+111 Coding-folders/coding/passmana/lib/python3.13/site-packages/cffi/__pycache__
+112 Coding-folders/coding/passmana/lib/python3.13/site-packages/cffi-1.17.1.dist-info
+113 Coding-folders/coding/passmana/lib/python3.13/site-packages/cryptography
+114 Coding-folders/coding/passmana/lib/python3.13/site-packages/cryptography/__pycache__
+115 Coding-folders/coding/passmana/lib/python3.13/site-packages/cryptography/hazmat
+116 Coding-folders/coding/passmana/lib/python3.13/site-packages/cryptography/hazmat/__pycache__
+117 Coding-folders/coding/passmana/lib/python3.13/site-packages/cryptography/hazmat/backends
+118 Coding-folders/coding/passmana/lib/python3.13/site-packages/cryptography/hazmat/backends/__pycache__
+119 Coding-folders/coding/passmana/lib/python3.13/site-packages/cryptography/hazmat/backends/openssl
+120 Coding-folders/coding/passmana/lib/python3.13/site-packages/cryptography/hazmat/backends/openssl/__pycache__
+121 Coding-folders/coding/passmana/lib/python3.13/site-packages/cryptography/hazmat/bindings
+122 Coding-folders/coding/passmana/lib/python3.13/site-packages/cryptography/hazmat/bindings/__pycache__
+123 Coding-folders/coding/passmana/lib/python3.13/site-packages/cryptography/hazmat/bindings/_rust
+124 Coding-folders/coding/passmana/lib/python3.13/site-packages/cryptography/hazmat/bindings/_rust/openssl
+125 Coding-folders/coding/passmana/lib/python3.13/site-packages/cryptography/hazmat/bindings/openssl
+126 Coding-folders/coding/passmana/lib/python3.13/site-packages/cryptography/hazmat/bindings/openssl/__pycache__
+127 Coding-folders/coding/passmana/lib/python3.13/site-packages/cryptography/hazmat/decrepit
+128 Coding-folders/coding/passmana/lib/python3.13/site-packages/cryptography/hazmat/decrepit/__pycache__
+129 Coding-folders/coding/passmana/lib/python3.13/site-packages/cryptography/hazmat/decrepit/ciphers
+130 Coding-folders/coding/passmana/lib/python3.13/site-packages/cryptography/hazmat/decrepit/ciphers/__pycache__
+131 Coding-folders/coding/passmana/lib/python3.13/site-packages/cryptography/hazmat/primitives
+132 Coding-folders/coding/passmana/lib/python3.13/site-packages/cryptography/hazmat/primitives/__pycache__
+133 Coding-folders/coding/passmana/lib/python3.13/site-packages/cryptography/hazmat/primitives/asymmetric
+134 Coding-folders/coding/passmana/lib/python3.13/site-packages/cryptography/hazmat/primitives/asymmetric/__pycache__
+135 Coding-folders/coding/passmana/lib/python3.13/site-packages/cryptography/hazmat/primitives/ciphers
+136 Coding-folders/coding/passmana/lib/python3.13/site-packages/cryptography/hazmat/primitives/ciphers/__pycache__
+137 Coding-folders/coding/passmana/lib/python3.13/site-packages/cryptography/hazmat/primitives/kdf
+138 Coding-folders/coding/passmana/lib/python3.13/site-packages/cryptography/hazmat/primitives/kdf/__pycache__
+139 Coding-folders/coding/passmana/lib/python3.13/site-packages/cryptography/hazmat/primitives/serialization
+140 Coding-folders/coding/passmana/lib/python3.13/site-packages/cryptography/hazmat/primitives/serialization/__pycache__
+141 Coding-folders/coding/passmana/lib/python3.13/site-packages/cryptography/hazmat/primitives/twofactor
+142 Coding-folders/coding/passmana/lib/python3.13/site-packages/cryptography/hazmat/primitives/twofactor/__pycache__
+143 Coding-folders/coding/passmana/lib/python3.13/site-packages/cryptography/x509
+144 Coding-folders/coding/passmana/lib/python3.13/site-packages/cryptography/x509/__pycache__
+145 Coding-folders/coding/passmana/lib/python3.13/site-packages/cryptography-44.0.0.dist-info
+146 Coding-folders/coding/passmana/lib/python3.13/site-packages/cryptography-44.0.0.dist-info/licenses
+147 Coding-folders/coding/passmana/lib/python3.13/site-packages/mysql
+148 Coding-folders/coding/passmana/lib/python3.13/site-packages/mysql/__pycache__
+149 Coding-folders/coding/passmana/lib/python3.13/site-packages/mysql/connector
+150 Coding-folders/coding/passmana/lib/python3.13/site-packages/mysql/connector/__pycache__
+151 Coding-folders/coding/passmana/lib/python3.13/site-packages/mysql/connector/aio
+152 Coding-folders/coding/passmana/lib/python3.13/site-packages/mysql/connector/aio/__pycache__
+153 Coding-folders/coding/passmana/lib/python3.13/site-packages/mysql/connector/aio/plugins
+154 Coding-folders/coding/passmana/lib/python3.13/site-packages/mysql/connector/aio/plugins/__pycache__
+155 Coding-folders/coding/passmana/lib/python3.13/site-packages/mysql/connector/django
+156 Coding-folders/coding/passmana/lib/python3.13/site-packages/mysql/connector/django/__pycache__
+157 Coding-folders/coding/passmana/lib/python3.13/site-packages/mysql/connector/locales
+158 Coding-folders/coding/passmana/lib/python3.13/site-packages/mysql/connector/locales/__pycache__
+159 Coding-folders/coding/passmana/lib/python3.13/site-packages/mysql/connector/locales/eng
+160 Coding-folders/coding/passmana/lib/python3.13/site-packages/mysql/connector/locales/eng/__pycache__
+161 Coding-folders/coding/passmana/lib/python3.13/site-packages/mysql/connector/opentelemetry
+162 Coding-folders/coding/passmana/lib/python3.13/site-packages/mysql/connector/opentelemetry/__pycache__
+163 Coding-folders/coding/passmana/lib/python3.13/site-packages/mysql/connector/plugins
+164 Coding-folders/coding/passmana/lib/python3.13/site-packages/mysql/connector/plugins/__pycache__
+165 Coding-folders/coding/passmana/lib/python3.13/site-packages/mysql/vendor
+166 Coding-folders/coding/passmana/lib/python3.13/site-packages/mysql/vendor/lib
+167 Coding-folders/coding/passmana/lib/python3.13/site-packages/mysql/vendor/plugin
+168 Coding-folders/coding/passmana/lib/python3.13/site-packages/mysql_connector_python-9.1.0.dist-info
+169 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip
+170 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal
+171 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/__pycache__
+172 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/cli
+173 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/cli/__pycache__
+174 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/commands
+175 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/commands/__pycache__
+176 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/distributions
+177 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/distributions/__pycache__
+178 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/index
+179 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/index/__pycache__
+180 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/locations
+181 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/locations/__pycache__
+182 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/metadata
+183 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/metadata/__pycache__
+184 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/metadata/importlib
+185 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/metadata/importlib/__pycache__
+186 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/models
+187 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/models/__pycache__
+188 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/network
+189 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/network/__pycache__
+190 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/operations
+191 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/operations/__pycache__
+192 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/operations/build
+193 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/operations/build/__pycache__
+194 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/operations/install
+195 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/operations/install/__pycache__
+196 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/req
+197 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/req/__pycache__
+198 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/resolution
+199 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/resolution/__pycache__
+200 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/resolution/legacy
+201 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/resolution/legacy/__pycache__
+202 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/resolution/resolvelib
+203 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/resolution/resolvelib/__pycache__
+204 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/utils
+205 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/utils/__pycache__
+206 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/vcs
+207 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_internal/vcs/__pycache__
+208 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor
+209 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/__pycache__
+210 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/cachecontrol
+211 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/cachecontrol/__pycache__
+212 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/cachecontrol/caches
+213 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/cachecontrol/caches/__pycache__
+214 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/certifi
+215 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/certifi/__pycache__
+216 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/distlib
+217 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/distlib/__pycache__
+218 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/distro
+219 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/distro/__pycache__
+220 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/idna
+221 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/idna/__pycache__
+222 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/msgpack
+223 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/msgpack/__pycache__
+224 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/packaging
+225 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/packaging/__pycache__
+226 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/pkg_resources
+227 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/pkg_resources/__pycache__
+228 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/platformdirs
+229 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/platformdirs/__pycache__
+230 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/pygments
+231 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/pygments/__pycache__
+232 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/pygments/filters
+233 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/pygments/filters/__pycache__
+234 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/pygments/formatters
+235 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/pygments/formatters/__pycache__
+236 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/pygments/lexers
+237 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/pygments/lexers/__pycache__
+238 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/pygments/styles
+239 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/pygments/styles/__pycache__
+240 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/pyproject_hooks
+241 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/pyproject_hooks/__pycache__
+242 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/pyproject_hooks/_in_process
+243 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/pyproject_hooks/_in_process/__pycache__
+244 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/requests
+245 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/requests/__pycache__
+246 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/resolvelib
+247 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/resolvelib/__pycache__
+248 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/resolvelib/compat
+249 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/resolvelib/compat/__pycache__
+250 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/rich
+251 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/rich/__pycache__
+252 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/tomli
+253 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/tomli/__pycache__
+254 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/truststore
+255 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/truststore/__pycache__
+256 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/urllib3
+257 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/urllib3/__pycache__
+258 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/urllib3/contrib
+259 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/urllib3/contrib/__pycache__
+260 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/urllib3/contrib/_securetransport
+261 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__pycache__
+262 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/urllib3/packages
+263 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/urllib3/packages/__pycache__
+264 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/urllib3/packages/backports
+265 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/urllib3/packages/backports/__pycache__
+266 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/urllib3/util
+267 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip/_vendor/urllib3/util/__pycache__
+268 Coding-folders/coding/passmana/lib/python3.13/site-packages/pip-24.3.1.dist-info
+269 Coding-folders/coding/passmana/lib/python3.13/site-packages/pycparser
+270 Coding-folders/coding/passmana/lib/python3.13/site-packages/pycparser/__pycache__
+271 Coding-folders/coding/passmana/lib/python3.13/site-packages/pycparser/ply
+272 Coding-folders/coding/passmana/lib/python3.13/site-packages/pycparser/ply/__pycache__
+273 Coding-folders/coding/passmana/lib/python3.13/site-packages/pycparser-2.22.dist-info
+274 Coding-folders/coding/passmana/lib/python3.13/site-packages/rust
+275 Coding-folders/coding/passmana/lib/python3.13/site-packages/rust/cryptography-cffi
+276 Coding-folders/coding/passmana/lib/python3.13/site-packages/rust/cryptography-keepalive
+277 Coding-folders/coding/passmana/lib/python3.13/site-packages/rust/cryptography-key-parsing
+278 Coding-folders/coding/passmana/lib/python3.13/site-packages/rust/cryptography-openssl
+279 Coding-folders/coding/passmana/lib/python3.13/site-packages/rust/cryptography-x509
+280 Coding-folders/coding/passmana/lib/python3.13/site-packages/rust/cryptography-x509-verification
+281 Coding-folders/coding/passmana/src
+282 Coding-folders/coding/pycon
+283 Coding-folders/coding/pycrypt
+284 Coding-folders/coding/pymp3
+285 Coding-folders/coding/pysh
+286 Coding-folders/coding/randomfiles
+287 Coding-folders/coding/randomjavascript
+288 Coding-folders/coding/rendomtimestuff
+289 Coding-folders/coding/scode
+290 Coding-folders/coding/scode/.idea
+291 Coding-folders/coding/scode/.idea/inspectionProfiles
+292 Coding-folders/coding/scodetesting
+293 Coding-folders/coding/sfsymbolstesting
+294 Coding-folders/coding/shipper
+295 Coding-folders/coding/taxcalcs
+296 Coding-folders/coding/taxcalcs/TaxCalcC
+297 Coding-folders/coding/taxcalcs/TaxCalcC/.settings
+298 Coding-folders/coding/taxcalcs/asm
+299 Coding-folders/coding/taxcalcs/c#
+300 Coding-folders/coding/taxcalcs/c#/bin
+301 Coding-folders/coding/taxcalcs/c#/bin/Debug
+302 Coding-folders/coding/taxcalcs/c#/bin/Debug/net9.0
+303 Coding-folders/coding/taxcalcs/c#/obj
+304 Coding-folders/coding/taxcalcs/c#/obj/Debug
+305 Coding-folders/coding/taxcalcs/c#/obj/Debug/net9.0
+306 Coding-folders/coding/taxcalcs/c#/obj/Debug/net9.0/ref
+307 Coding-folders/coding/taxcalcs/c#/obj/Debug/net9.0/refint
+308 Coding-folders/coding/taxcalcs/emojic
+309 Coding-folders/coding/taxcalcs/java
+310 Coding-folders/coding/taxcalcs/javascript
+311 Coding-folders/coding/taxcalcs/simplegoapp
+312 Coding-folders/coding/taxcalcs/smalltaxcpp
+313 Coding-folders/coding/taxcalcs/taxcalcsql
+314 Coding-folders/coding/taxcalcs/taxcalcv2
+315 Coding-folders/coding/taxcalcv3
+316 Coding-folders/coding/testingstuff
+317 Coding-folders/coding/tetrispy
+318 Coding-folders/coding/textedit
+319 Coding-folders/coding/toogle
+320 Coding-folders/coding/totkostloc
+321 Coding-folders/coding/totkostloc/__pycache__
+322 Coding-folders/coding/webserver
+323 Coding-folders/coding/whatever.asm
+324 Coding-folders/coding/whatever2
+325 Coding-folders/coding2
+326 Coding-folders/coding2/.vscode
+327 Coding-folders/coding2/BallsBrowser
+328 Coding-folders/coding2/BlazorApp1
+329 Coding-folders/coding2/BlazorApp1/Components
+330 Coding-folders/coding2/BlazorApp1/Components/Layout
+331 Coding-folders/coding2/BlazorApp1/Components/Pages
+332 Coding-folders/coding2/BlazorApp1/Properties
+333 Coding-folders/coding2/BlazorApp1/bin
+334 Coding-folders/coding2/BlazorApp1/bin/Debug
+335 Coding-folders/coding2/BlazorApp1/bin/Debug/net9.0
+336 Coding-folders/coding2/BlazorApp1/obj
+337 Coding-folders/coding2/BlazorApp1/obj/Debug
+338 Coding-folders/coding2/BlazorApp1/obj/Debug/net9.0
+339 Coding-folders/coding2/BlazorApp1/obj/Debug/net9.0/compressed
+340 Coding-folders/coding2/BlazorApp1/obj/Debug/net9.0/ref
+341 Coding-folders/coding2/BlazorApp1/obj/Debug/net9.0/refint
+342 Coding-folders/coding2/BlazorApp1/obj/Debug/net9.0/scopedcss
+343 Coding-folders/coding2/BlazorApp1/obj/Debug/net9.0/scopedcss/Components
+344 Coding-folders/coding2/BlazorApp1/obj/Debug/net9.0/scopedcss/Components/Layout
+345 Coding-folders/coding2/BlazorApp1/obj/Debug/net9.0/scopedcss/bundle
+346 Coding-folders/coding2/BlazorApp1/obj/Debug/net9.0/scopedcss/projectbundle
+347 Coding-folders/coding2/BlazorApp1/obj/Debug/net9.0/staticwebassets
+348 Coding-folders/coding2/BlazorApp1/wwwroot
+349 Coding-folders/coding2/BlazorApp1/wwwroot/lib
+350 Coding-folders/coding2/BlazorApp1/wwwroot/lib/bootstrap
+351 Coding-folders/coding2/BlazorApp1/wwwroot/lib/bootstrap/dist
+352 Coding-folders/coding2/BlazorApp1/wwwroot/lib/bootstrap/dist/css
+353 Coding-folders/coding2/BlazorApp1/wwwroot/lib/bootstrap/dist/js
+354 Coding-folders/coding2/Morning
+355 Coding-folders/coding2/__pycache__
+356 Coding-folders/coding2/aster
+357 Coding-folders/coding2/aster/aster.pytorch
+358 Coding-folders/coding2/balls
+359 Coding-folders/coding2/cors-proxy
+360 Coding-folders/coding2/csr
+361 Coding-folders/coding2/disclient
+362 Coding-folders/coding2/discordbot
+363 Coding-folders/coding2/dotw
+364 Coding-folders/coding2/eee
+365 Coding-folders/coding2/fileenc
+366 Coding-folders/coding2/flask-testing
+367 Coding-folders/coding2/flask-testing/templates
+368 Coding-folders/coding2/getpolls
+369 Coding-folders/coding2/ggg
+370 Coding-folders/coding2/ggg/.vscode
+371 Coding-folders/coding2/ggg/audiod
+372 Coding-folders/coding2/gh
+373 Coding-folders/coding2/gh/My GitHub App-darwin-x64
+374 Coding-folders/coding2/gh/My GitHub App-linux-x64
+375 Coding-folders/coding2/gh/My GitHub App-linux-x64/locales
+376 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources
+377 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app
+378 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-darwin-x64
+379 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64
+380 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/locales
+381 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources
+382 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app
+383 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/assets
+384 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules
+385 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/@electron
+386 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/@electron/get
+387 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/@electron/get/dist
+388 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/@electron/get/dist/cjs
+389 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/@electron/get/dist/esm
+390 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/@sindresorhus
+391 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/@sindresorhus/is
+392 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/@sindresorhus/is/dist
+393 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/@szmarczak
+394 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/@szmarczak/http-timer
+395 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/@szmarczak/http-timer/dist
+396 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/@szmarczak/http-timer/dist/source
+397 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/@types
+398 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/@types/cacheable-request
+399 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/@types/http-cache-semantics
+400 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/@types/keyv
+401 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/@types/node
+402 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/@types/node/assert
+403 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/@types/node/compatibility
+404 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/@types/node/dns
+405 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/@types/node/fs
+406 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/@types/node/readline
+407 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/@types/node/stream
+408 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/@types/node/timers
+409 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/@types/node/ts5.6
+410 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/@types/responselike
+411 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/@types/yauzl
+412 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/boolean
+413 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/boolean/build
+414 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/boolean/build/lib
+415 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/boolean/lib
+416 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/buffer-crc32
+417 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/cacheable-lookup
+418 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/cacheable-lookup/source
+419 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/cacheable-request
+420 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/cacheable-request/src
+421 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/clone-response
+422 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/clone-response/src
+423 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/debug
+424 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/debug/src
+425 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/decompress-response
+426 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/decompress-response/node_modules
+427 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/decompress-response/node_modules/mimic-response
+428 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/defer-to-connect
+429 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/defer-to-connect/dist
+430 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/defer-to-connect/dist/source
+431 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/define-data-property
+432 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/define-data-property/.github
+433 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/define-data-property/test
+434 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/define-properties
+435 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/define-properties/.github
+436 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/detect-node
+437 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/end-of-stream
+438 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/env-paths
+439 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/es-define-property
+440 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/es-define-property/.github
+441 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/es-define-property/test
+442 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/es-errors
+443 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/es-errors/.github
+444 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/es-errors/test
+445 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/es6-error
+446 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/es6-error/es6
+447 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/es6-error/lib
+448 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/es6-error/typings
+449 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/escape-string-regexp
+450 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/extract-zip
+451 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/fd-slicer
+452 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/fd-slicer/test
+453 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/fs-extra
+454 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/fs-extra/lib
+455 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/fs-extra/lib/copy
+456 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/fs-extra/lib/copy-sync
+457 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/fs-extra/lib/empty
+458 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/fs-extra/lib/ensure
+459 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/fs-extra/lib/fs
+460 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/fs-extra/lib/json
+461 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/fs-extra/lib/mkdirs
+462 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/fs-extra/lib/move
+463 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/fs-extra/lib/move-sync
+464 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/fs-extra/lib/output
+465 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/fs-extra/lib/path-exists
+466 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/fs-extra/lib/remove
+467 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/fs-extra/lib/util
+468 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/get-stream
+469 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/global-agent
+470 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/global-agent/dist
+471 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/global-agent/dist/classes
+472 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/global-agent/dist/factories
+473 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/global-agent/dist/routines
+474 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/global-agent/dist/utilities
+475 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/global-agent/node_modules
+476 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/global-agent/node_modules/semver
+477 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/global-agent/node_modules/semver/bin
+478 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/global-agent/node_modules/semver/classes
+479 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/global-agent/node_modules/semver/functions
+480 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/global-agent/node_modules/semver/internal
+481 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/global-agent/node_modules/semver/ranges
+482 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/global-agent/src
+483 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/global-agent/src/classes
+484 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/global-agent/src/factories
+485 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/global-agent/src/routines
+486 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/global-agent/src/utilities
+487 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/globalthis
+488 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/globalthis/test
+489 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/gopd
+490 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/gopd/.github
+491 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/gopd/test
+492 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/got
+493 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/got/dist
+494 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/got/dist/source
+495 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/got/dist/source/as-promise
+496 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/got/dist/source/core
+497 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/got/dist/source/core/utils
+498 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/got/dist/source/utils
+499 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/graceful-fs
+500 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/has-property-descriptors
+501 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/has-property-descriptors/.github
+502 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/has-property-descriptors/test
+503 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/http-cache-semantics
+504 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/http2-wrapper
+505 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/http2-wrapper/source
+506 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/http2-wrapper/source/utils
+507 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/json-buffer
+508 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/json-buffer/test
+509 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/json-stringify-safe
+510 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/json-stringify-safe/test
+511 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/jsonfile
+512 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/keyv
+513 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/keyv/src
+514 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/lowercase-keys
+515 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/matcher
+516 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/mimic-response
+517 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/ms
+518 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/normalize-url
+519 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/object-keys
+520 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/object-keys/test
+521 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/once
+522 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/p-cancelable
+523 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/pend
+524 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/progress
+525 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/progress/lib
+526 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/pump
+527 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/pump/.github
+528 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/quick-lru
+529 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/resolve-alpn
+530 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/responselike
+531 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/responselike/src
+532 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/roarr
+533 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/roarr/dist
+534 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/roarr/dist/factories
+535 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/semver
+536 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/semver/bin
+537 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/semver-compare
+538 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/semver-compare/example
+539 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/semver-compare/test
+540 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/serialize-error
+541 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/sprintf-js
+542 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/sprintf-js/dist
+543 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/sprintf-js/src
+544 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/sumchecker
+545 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/sumchecker/.github
+546 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/sumchecker/.github/workflows
+547 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/type-fest
+548 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/type-fest/source
+549 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/undici-types
+550 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/universalify
+551 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/wrappy
+552 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/GitHub App Unofficial-linux-x64/resources/app/node_modules/yauzl
+553 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/assets
+554 Coding-folders/coding2/gh/My GitHub App-linux-x64/resources/app/node_modules
+555 Coding-folders/coding2/gh/assets
+556 Coding-folders/coding2/gh/node_modules
+557 Coding-folders/coding2/gh/node_modules/.bin
+558 Coding-folders/coding2/gh/node_modules/@electron
+559 Coding-folders/coding2/gh/node_modules/@electron/get
+560 Coding-folders/coding2/gh/node_modules/@electron/get/dist
+561 Coding-folders/coding2/gh/node_modules/@electron/get/dist/cjs
+562 Coding-folders/coding2/gh/node_modules/@electron/get/dist/esm
+563 Coding-folders/coding2/gh/node_modules/@sindresorhus
+564 Coding-folders/coding2/gh/node_modules/@sindresorhus/is
+565 Coding-folders/coding2/gh/node_modules/@sindresorhus/is/dist
+566 Coding-folders/coding2/gh/node_modules/@szmarczak
+567 Coding-folders/coding2/gh/node_modules/@szmarczak/http-timer
+568 Coding-folders/coding2/gh/node_modules/@szmarczak/http-timer/dist
+569 Coding-folders/coding2/gh/node_modules/@szmarczak/http-timer/dist/source
+570 Coding-folders/coding2/gh/node_modules/@types
+571 Coding-folders/coding2/gh/node_modules/@types/cacheable-request
+572 Coding-folders/coding2/gh/node_modules/@types/http-cache-semantics
+573 Coding-folders/coding2/gh/node_modules/@types/keyv
+574 Coding-folders/coding2/gh/node_modules/@types/node
+575 Coding-folders/coding2/gh/node_modules/@types/node/assert
+576 Coding-folders/coding2/gh/node_modules/@types/node/compatibility
+577 Coding-folders/coding2/gh/node_modules/@types/node/dns
+578 Coding-folders/coding2/gh/node_modules/@types/node/fs
+579 Coding-folders/coding2/gh/node_modules/@types/node/readline
+580 Coding-folders/coding2/gh/node_modules/@types/node/stream
+581 Coding-folders/coding2/gh/node_modules/@types/node/timers
+582 Coding-folders/coding2/gh/node_modules/@types/node/ts5.6
+583 Coding-folders/coding2/gh/node_modules/@types/responselike
+584 Coding-folders/coding2/gh/node_modules/@types/yauzl
+585 Coding-folders/coding2/gh/node_modules/boolean
+586 Coding-folders/coding2/gh/node_modules/boolean/build
+587 Coding-folders/coding2/gh/node_modules/boolean/build/lib
+588 Coding-folders/coding2/gh/node_modules/boolean/lib
+589 Coding-folders/coding2/gh/node_modules/buffer-crc32
+590 Coding-folders/coding2/gh/node_modules/cacheable-lookup
+591 Coding-folders/coding2/gh/node_modules/cacheable-lookup/source
+592 Coding-folders/coding2/gh/node_modules/cacheable-request
+593 Coding-folders/coding2/gh/node_modules/cacheable-request/src
+594 Coding-folders/coding2/gh/node_modules/clone-response
+595 Coding-folders/coding2/gh/node_modules/clone-response/src
+596 Coding-folders/coding2/gh/node_modules/debug
+597 Coding-folders/coding2/gh/node_modules/debug/src
+598 Coding-folders/coding2/gh/node_modules/decompress-response
+599 Coding-folders/coding2/gh/node_modules/decompress-response/node_modules
+600 Coding-folders/coding2/gh/node_modules/decompress-response/node_modules/mimic-response
+601 Coding-folders/coding2/gh/node_modules/defer-to-connect
+602 Coding-folders/coding2/gh/node_modules/defer-to-connect/dist
+603 Coding-folders/coding2/gh/node_modules/defer-to-connect/dist/source
+604 Coding-folders/coding2/gh/node_modules/define-data-property
+605 Coding-folders/coding2/gh/node_modules/define-data-property/.github
+606 Coding-folders/coding2/gh/node_modules/define-data-property/test
+607 Coding-folders/coding2/gh/node_modules/define-properties
+608 Coding-folders/coding2/gh/node_modules/define-properties/.github
+609 Coding-folders/coding2/gh/node_modules/detect-node
+610 Coding-folders/coding2/gh/node_modules/electron
+611 Coding-folders/coding2/gh/node_modules/electron/dist
+612 Coding-folders/coding2/gh/node_modules/end-of-stream
+613 Coding-folders/coding2/gh/node_modules/env-paths
+614 Coding-folders/coding2/gh/node_modules/es-define-property
+615 Coding-folders/coding2/gh/node_modules/es-define-property/.github
+616 Coding-folders/coding2/gh/node_modules/es-define-property/test
+617 Coding-folders/coding2/gh/node_modules/es-errors
+618 Coding-folders/coding2/gh/node_modules/es-errors/.github
+619 Coding-folders/coding2/gh/node_modules/es-errors/test
+620 Coding-folders/coding2/gh/node_modules/es6-error
+621 Coding-folders/coding2/gh/node_modules/es6-error/es6
+622 Coding-folders/coding2/gh/node_modules/es6-error/lib
+623 Coding-folders/coding2/gh/node_modules/es6-error/typings
+624 Coding-folders/coding2/gh/node_modules/escape-string-regexp
+625 Coding-folders/coding2/gh/node_modules/extract-zip
+626 Coding-folders/coding2/gh/node_modules/fd-slicer
+627 Coding-folders/coding2/gh/node_modules/fd-slicer/test
+628 Coding-folders/coding2/gh/node_modules/fs-extra
+629 Coding-folders/coding2/gh/node_modules/fs-extra/lib
+630 Coding-folders/coding2/gh/node_modules/fs-extra/lib/copy
+631 Coding-folders/coding2/gh/node_modules/fs-extra/lib/copy-sync
+632 Coding-folders/coding2/gh/node_modules/fs-extra/lib/empty
+633 Coding-folders/coding2/gh/node_modules/fs-extra/lib/ensure
+634 Coding-folders/coding2/gh/node_modules/fs-extra/lib/fs
+635 Coding-folders/coding2/gh/node_modules/fs-extra/lib/json
+636 Coding-folders/coding2/gh/node_modules/fs-extra/lib/mkdirs
+637 Coding-folders/coding2/gh/node_modules/fs-extra/lib/move
+638 Coding-folders/coding2/gh/node_modules/fs-extra/lib/move-sync
+639 Coding-folders/coding2/gh/node_modules/fs-extra/lib/output
+640 Coding-folders/coding2/gh/node_modules/fs-extra/lib/path-exists
+641 Coding-folders/coding2/gh/node_modules/fs-extra/lib/remove
+642 Coding-folders/coding2/gh/node_modules/fs-extra/lib/util
+643 Coding-folders/coding2/gh/node_modules/get-stream
+644 Coding-folders/coding2/gh/node_modules/global-agent
+645 Coding-folders/coding2/gh/node_modules/global-agent/dist
+646 Coding-folders/coding2/gh/node_modules/global-agent/dist/classes
+647 Coding-folders/coding2/gh/node_modules/global-agent/dist/factories
+648 Coding-folders/coding2/gh/node_modules/global-agent/dist/routines
+649 Coding-folders/coding2/gh/node_modules/global-agent/dist/utilities
+650 Coding-folders/coding2/gh/node_modules/global-agent/node_modules
+651 Coding-folders/coding2/gh/node_modules/global-agent/node_modules/.bin
+652 Coding-folders/coding2/gh/node_modules/global-agent/node_modules/semver
+653 Coding-folders/coding2/gh/node_modules/global-agent/node_modules/semver/bin
+654 Coding-folders/coding2/gh/node_modules/global-agent/node_modules/semver/classes
+655 Coding-folders/coding2/gh/node_modules/global-agent/node_modules/semver/functions
+656 Coding-folders/coding2/gh/node_modules/global-agent/node_modules/semver/internal
+657 Coding-folders/coding2/gh/node_modules/global-agent/node_modules/semver/ranges
+658 Coding-folders/coding2/gh/node_modules/global-agent/src
+659 Coding-folders/coding2/gh/node_modules/global-agent/src/classes
+660 Coding-folders/coding2/gh/node_modules/global-agent/src/factories
+661 Coding-folders/coding2/gh/node_modules/global-agent/src/routines
+662 Coding-folders/coding2/gh/node_modules/global-agent/src/utilities
+663 Coding-folders/coding2/gh/node_modules/globalthis
+664 Coding-folders/coding2/gh/node_modules/globalthis/test
+665 Coding-folders/coding2/gh/node_modules/gopd
+666 Coding-folders/coding2/gh/node_modules/gopd/.github
+667 Coding-folders/coding2/gh/node_modules/gopd/test
+668 Coding-folders/coding2/gh/node_modules/got
+669 Coding-folders/coding2/gh/node_modules/got/dist
+670 Coding-folders/coding2/gh/node_modules/got/dist/source
+671 Coding-folders/coding2/gh/node_modules/got/dist/source/as-promise
+672 Coding-folders/coding2/gh/node_modules/got/dist/source/core
+673 Coding-folders/coding2/gh/node_modules/got/dist/source/core/utils
+674 Coding-folders/coding2/gh/node_modules/got/dist/source/utils
+675 Coding-folders/coding2/gh/node_modules/graceful-fs
+676 Coding-folders/coding2/gh/node_modules/has-property-descriptors
+677 Coding-folders/coding2/gh/node_modules/has-property-descriptors/.github
+678 Coding-folders/coding2/gh/node_modules/has-property-descriptors/test
+679 Coding-folders/coding2/gh/node_modules/http-cache-semantics
+680 Coding-folders/coding2/gh/node_modules/http2-wrapper
+681 Coding-folders/coding2/gh/node_modules/http2-wrapper/source
+682 Coding-folders/coding2/gh/node_modules/http2-wrapper/source/utils
+683 Coding-folders/coding2/gh/node_modules/json-buffer
+684 Coding-folders/coding2/gh/node_modules/json-buffer/test
+685 Coding-folders/coding2/gh/node_modules/json-stringify-safe
+686 Coding-folders/coding2/gh/node_modules/json-stringify-safe/test
+687 Coding-folders/coding2/gh/node_modules/jsonfile
+688 Coding-folders/coding2/gh/node_modules/keyv
+689 Coding-folders/coding2/gh/node_modules/keyv/src
+690 Coding-folders/coding2/gh/node_modules/lowercase-keys
+691 Coding-folders/coding2/gh/node_modules/matcher
+692 Coding-folders/coding2/gh/node_modules/mimic-response
+693 Coding-folders/coding2/gh/node_modules/ms
+694 Coding-folders/coding2/gh/node_modules/normalize-url
+695 Coding-folders/coding2/gh/node_modules/object-keys
+696 Coding-folders/coding2/gh/node_modules/object-keys/test
+697 Coding-folders/coding2/gh/node_modules/once
+698 Coding-folders/coding2/gh/node_modules/p-cancelable
+699 Coding-folders/coding2/gh/node_modules/pend
+700 Coding-folders/coding2/gh/node_modules/progress
+701 Coding-folders/coding2/gh/node_modules/progress/lib
+702 Coding-folders/coding2/gh/node_modules/pump
+703 Coding-folders/coding2/gh/node_modules/pump/.github
+704 Coding-folders/coding2/gh/node_modules/quick-lru
+705 Coding-folders/coding2/gh/node_modules/resolve-alpn
+706 Coding-folders/coding2/gh/node_modules/responselike
+707 Coding-folders/coding2/gh/node_modules/responselike/src
+708 Coding-folders/coding2/gh/node_modules/roarr
+709 Coding-folders/coding2/gh/node_modules/roarr/dist
+710 Coding-folders/coding2/gh/node_modules/roarr/dist/factories
+711 Coding-folders/coding2/gh/node_modules/semver
+712 Coding-folders/coding2/gh/node_modules/semver/bin
+713 Coding-folders/coding2/gh/node_modules/semver-compare
+714 Coding-folders/coding2/gh/node_modules/semver-compare/example
+715 Coding-folders/coding2/gh/node_modules/semver-compare/test
+716 Coding-folders/coding2/gh/node_modules/serialize-error
+717 Coding-folders/coding2/gh/node_modules/sprintf-js
+718 Coding-folders/coding2/gh/node_modules/sprintf-js/dist
+719 Coding-folders/coding2/gh/node_modules/sprintf-js/src
+720 Coding-folders/coding2/gh/node_modules/sumchecker
+721 Coding-folders/coding2/gh/node_modules/sumchecker/.github
+722 Coding-folders/coding2/gh/node_modules/sumchecker/.github/workflows
+723 Coding-folders/coding2/gh/node_modules/type-fest
+724 Coding-folders/coding2/gh/node_modules/type-fest/source
+725 Coding-folders/coding2/gh/node_modules/undici-types
+726 Coding-folders/coding2/gh/node_modules/universalify
+727 Coding-folders/coding2/gh/node_modules/wrappy
+728 Coding-folders/coding2/gh/node_modules/yauzl
+729 Coding-folders/coding2/idfk
+730 Coding-folders/coding2/idfk/data
+731 Coding-folders/coding2/idfk/data/FashionMNIST
+732 Coding-folders/coding2/idfk/data/FashionMNIST/raw
+733 Coding-folders/coding2/idfk/data/omniglot-py
+734 Coding-folders/coding2/idfk/data/omniglot-py/images_background
+735 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Alphabet_of_the_Magi
+736 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Alphabet_of_the_Magi/character01
+737 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Alphabet_of_the_Magi/character02
+738 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Alphabet_of_the_Magi/character03
+739 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Alphabet_of_the_Magi/character04
+740 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Alphabet_of_the_Magi/character05
+741 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Alphabet_of_the_Magi/character06
+742 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Alphabet_of_the_Magi/character07
+743 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Alphabet_of_the_Magi/character08
+744 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Alphabet_of_the_Magi/character09
+745 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Alphabet_of_the_Magi/character10
+746 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Alphabet_of_the_Magi/character11
+747 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Alphabet_of_the_Magi/character12
+748 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Alphabet_of_the_Magi/character13
+749 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Alphabet_of_the_Magi/character14
+750 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Alphabet_of_the_Magi/character15
+751 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Alphabet_of_the_Magi/character16
+752 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Alphabet_of_the_Magi/character17
+753 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Alphabet_of_the_Magi/character18
+754 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Alphabet_of_the_Magi/character19
+755 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Alphabet_of_the_Magi/character20
+756 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Anglo-Saxon_Futhorc
+757 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Anglo-Saxon_Futhorc/character01
+758 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Anglo-Saxon_Futhorc/character02
+759 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Anglo-Saxon_Futhorc/character03
+760 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Anglo-Saxon_Futhorc/character04
+761 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Anglo-Saxon_Futhorc/character05
+762 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Anglo-Saxon_Futhorc/character06
+763 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Anglo-Saxon_Futhorc/character07
+764 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Anglo-Saxon_Futhorc/character08
+765 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Anglo-Saxon_Futhorc/character09
+766 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Anglo-Saxon_Futhorc/character10
+767 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Anglo-Saxon_Futhorc/character11
+768 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Anglo-Saxon_Futhorc/character12
+769 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Anglo-Saxon_Futhorc/character13
+770 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Anglo-Saxon_Futhorc/character14
+771 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Anglo-Saxon_Futhorc/character15
+772 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Anglo-Saxon_Futhorc/character16
+773 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Anglo-Saxon_Futhorc/character17
+774 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Anglo-Saxon_Futhorc/character18
+775 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Anglo-Saxon_Futhorc/character19
+776 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Anglo-Saxon_Futhorc/character20
+777 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Anglo-Saxon_Futhorc/character21
+778 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Anglo-Saxon_Futhorc/character22
+779 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Anglo-Saxon_Futhorc/character23
+780 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Anglo-Saxon_Futhorc/character24
+781 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Anglo-Saxon_Futhorc/character25
+782 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Anglo-Saxon_Futhorc/character26
+783 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Anglo-Saxon_Futhorc/character27
+784 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Anglo-Saxon_Futhorc/character28
+785 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Anglo-Saxon_Futhorc/character29
+786 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Arcadian
+787 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Arcadian/character01
+788 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Arcadian/character02
+789 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Arcadian/character03
+790 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Arcadian/character04
+791 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Arcadian/character05
+792 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Arcadian/character06
+793 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Arcadian/character07
+794 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Arcadian/character08
+795 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Arcadian/character09
+796 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Arcadian/character10
+797 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Arcadian/character11
+798 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Arcadian/character12
+799 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Arcadian/character13
+800 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Arcadian/character14
+801 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Arcadian/character15
+802 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Arcadian/character16
+803 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Arcadian/character17
+804 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Arcadian/character18
+805 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Arcadian/character19
+806 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Arcadian/character20
+807 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Arcadian/character21
+808 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Arcadian/character22
+809 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Arcadian/character23
+810 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Arcadian/character24
+811 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Arcadian/character25
+812 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Arcadian/character26
+813 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian
+814 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character01
+815 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character02
+816 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character03
+817 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character04
+818 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character05
+819 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character06
+820 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character07
+821 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character08
+822 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character09
+823 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character10
+824 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character11
+825 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character12
+826 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character13
+827 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character14
+828 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character15
+829 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character16
+830 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character17
+831 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character18
+832 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character19
+833 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character20
+834 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character21
+835 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character22
+836 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character23
+837 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character24
+838 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character25
+839 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character26
+840 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character27
+841 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character28
+842 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character29
+843 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character30
+844 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character31
+845 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character32
+846 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character33
+847 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character34
+848 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character35
+849 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character36
+850 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character37
+851 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character38
+852 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character39
+853 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character40
+854 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Armenian/character41
+855 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)
+856 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character01
+857 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character02
+858 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character03
+859 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character04
+860 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character05
+861 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character06
+862 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character07
+863 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character08
+864 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character09
+865 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character10
+866 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character11
+867 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character12
+868 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character13
+869 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character14
+870 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character15
+871 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character16
+872 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character17
+873 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character18
+874 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character19
+875 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character20
+876 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character21
+877 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character22
+878 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character23
+879 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character24
+880 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character25
+881 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character26
+882 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character27
+883 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character28
+884 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character29
+885 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character30
+886 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character31
+887 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character32
+888 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character33
+889 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character34
+890 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character35
+891 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character36
+892 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character37
+893 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character38
+894 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character39
+895 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Asomtavruli_(Georgian)/character40
+896 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Balinese
+897 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Balinese/character01
+898 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Balinese/character02
+899 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Balinese/character03
+900 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Balinese/character04
+901 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Balinese/character05
+902 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Balinese/character06
+903 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Balinese/character07
+904 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Balinese/character08
+905 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Balinese/character09
+906 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Balinese/character10
+907 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Balinese/character11
+908 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Balinese/character12
+909 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Balinese/character13
+910 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Balinese/character14
+911 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Balinese/character15
+912 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Balinese/character16
+913 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Balinese/character17
+914 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Balinese/character18
+915 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Balinese/character19
+916 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Balinese/character20
+917 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Balinese/character21
+918 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Balinese/character22
+919 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Balinese/character23
+920 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Balinese/character24
+921 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali
+922 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character01
+923 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character02
+924 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character03
+925 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character04
+926 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character05
+927 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character06
+928 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character07
+929 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character08
+930 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character09
+931 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character10
+932 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character11
+933 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character12
+934 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character13
+935 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character14
+936 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character15
+937 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character16
+938 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character17
+939 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character18
+940 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character19
+941 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character20
+942 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character21
+943 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character22
+944 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character23
+945 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character24
+946 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character25
+947 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character26
+948 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character27
+949 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character28
+950 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character29
+951 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character30
+952 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character31
+953 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character32
+954 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character33
+955 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character34
+956 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character35
+957 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character36
+958 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character37
+959 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character38
+960 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character39
+961 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character40
+962 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character41
+963 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character42
+964 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character43
+965 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character44
+966 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character45
+967 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Bengali/character46
+968 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Blackfoot_(Canadian_Aboriginal_Syllabics)
+969 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Blackfoot_(Canadian_Aboriginal_Syllabics)/character01
+970 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Blackfoot_(Canadian_Aboriginal_Syllabics)/character02
+971 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Blackfoot_(Canadian_Aboriginal_Syllabics)/character03
+972 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Blackfoot_(Canadian_Aboriginal_Syllabics)/character04
+973 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Blackfoot_(Canadian_Aboriginal_Syllabics)/character05
+974 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Blackfoot_(Canadian_Aboriginal_Syllabics)/character06
+975 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Blackfoot_(Canadian_Aboriginal_Syllabics)/character07
+976 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Blackfoot_(Canadian_Aboriginal_Syllabics)/character08
+977 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Blackfoot_(Canadian_Aboriginal_Syllabics)/character09
+978 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Blackfoot_(Canadian_Aboriginal_Syllabics)/character10
+979 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Blackfoot_(Canadian_Aboriginal_Syllabics)/character11
+980 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Blackfoot_(Canadian_Aboriginal_Syllabics)/character12
+981 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Blackfoot_(Canadian_Aboriginal_Syllabics)/character13
+982 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Blackfoot_(Canadian_Aboriginal_Syllabics)/character14
+983 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Braille
+984 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Braille/character01
+985 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Braille/character02
+986 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Braille/character03
+987 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Braille/character04
+988 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Braille/character05
+989 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Braille/character06
+990 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Braille/character07
+991 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Braille/character08
+992 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Braille/character09
+993 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Braille/character10
+994 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Braille/character11
+995 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Braille/character12
+996 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Braille/character13
+997 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Braille/character14
+998 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Braille/character15
+999 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Braille/character16
+1000 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Braille/character17
+1001 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Braille/character18
+1002 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Braille/character19
+1003 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Braille/character20
+1004 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Braille/character21
+1005 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Braille/character22
+1006 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Braille/character23
+1007 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Braille/character24
+1008 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Braille/character25
+1009 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Braille/character26
+1010 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)
+1011 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)/character01
+1012 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)/character02
+1013 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)/character03
+1014 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)/character04
+1015 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)/character05
+1016 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)/character06
+1017 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)/character07
+1018 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)/character08
+1019 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)/character09
+1020 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)/character10
+1021 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)/character11
+1022 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)/character12
+1023 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)/character13
+1024 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)/character14
+1025 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)/character15
+1026 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)/character16
+1027 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)/character17
+1028 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)/character18
+1029 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)/character19
+1030 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)/character20
+1031 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)/character21
+1032 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)/character22
+1033 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)/character23
+1034 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)/character24
+1035 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)/character25
+1036 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)/character26
+1037 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)/character27
+1038 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)/character28
+1039 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)/character29
+1040 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)/character30
+1041 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)/character31
+1042 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)/character32
+1043 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)/character33
+1044 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Burmese_(Myanmar)/character34
+1045 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Cyrillic
+1046 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Cyrillic/character01
+1047 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Cyrillic/character02
+1048 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Cyrillic/character03
+1049 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Cyrillic/character04
+1050 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Cyrillic/character05
+1051 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Cyrillic/character06
+1052 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Cyrillic/character07
+1053 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Cyrillic/character08
+1054 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Cyrillic/character09
+1055 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Cyrillic/character10
+1056 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Cyrillic/character11
+1057 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Cyrillic/character12
+1058 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Cyrillic/character13
+1059 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Cyrillic/character14
+1060 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Cyrillic/character15
+1061 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Cyrillic/character16
+1062 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Cyrillic/character17
+1063 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Cyrillic/character18
+1064 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Cyrillic/character19
+1065 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Cyrillic/character20
+1066 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Cyrillic/character21
+1067 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Cyrillic/character22
+1068 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Cyrillic/character23
+1069 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Cyrillic/character24
+1070 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Cyrillic/character25
+1071 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Cyrillic/character26
+1072 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Cyrillic/character27
+1073 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Cyrillic/character28
+1074 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Cyrillic/character29
+1075 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Cyrillic/character30
+1076 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Cyrillic/character31
+1077 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Cyrillic/character32
+1078 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Cyrillic/character33
+1079 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Early_Aramaic
+1080 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Early_Aramaic/character01
+1081 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Early_Aramaic/character02
+1082 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Early_Aramaic/character03
+1083 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Early_Aramaic/character04
+1084 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Early_Aramaic/character05
+1085 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Early_Aramaic/character06
+1086 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Early_Aramaic/character07
+1087 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Early_Aramaic/character08
+1088 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Early_Aramaic/character09
+1089 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Early_Aramaic/character10
+1090 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Early_Aramaic/character11
+1091 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Early_Aramaic/character12
+1092 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Early_Aramaic/character13
+1093 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Early_Aramaic/character14
+1094 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Early_Aramaic/character15
+1095 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Early_Aramaic/character16
+1096 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Early_Aramaic/character17
+1097 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Early_Aramaic/character18
+1098 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Early_Aramaic/character19
+1099 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Early_Aramaic/character20
+1100 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Early_Aramaic/character21
+1101 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Early_Aramaic/character22
+1102 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Futurama
+1103 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Futurama/character01
+1104 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Futurama/character02
+1105 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Futurama/character03
+1106 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Futurama/character04
+1107 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Futurama/character05
+1108 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Futurama/character06
+1109 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Futurama/character07
+1110 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Futurama/character08
+1111 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Futurama/character09
+1112 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Futurama/character10
+1113 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Futurama/character11
+1114 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Futurama/character12
+1115 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Futurama/character13
+1116 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Futurama/character14
+1117 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Futurama/character15
+1118 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Futurama/character16
+1119 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Futurama/character17
+1120 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Futurama/character18
+1121 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Futurama/character19
+1122 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Futurama/character20
+1123 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Futurama/character21
+1124 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Futurama/character22
+1125 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Futurama/character23
+1126 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Futurama/character24
+1127 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Futurama/character25
+1128 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Futurama/character26
+1129 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha
+1130 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character01
+1131 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character02
+1132 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character03
+1133 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character04
+1134 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character05
+1135 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character06
+1136 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character07
+1137 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character08
+1138 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character09
+1139 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character10
+1140 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character11
+1141 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character12
+1142 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character13
+1143 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character14
+1144 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character15
+1145 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character16
+1146 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character17
+1147 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character18
+1148 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character19
+1149 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character20
+1150 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character21
+1151 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character22
+1152 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character23
+1153 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character24
+1154 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character25
+1155 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character26
+1156 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character27
+1157 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character28
+1158 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character29
+1159 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character30
+1160 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character31
+1161 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character32
+1162 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character33
+1163 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character34
+1164 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character35
+1165 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character36
+1166 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character37
+1167 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character38
+1168 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character39
+1169 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character40
+1170 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character41
+1171 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character42
+1172 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Grantha/character43
+1173 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Greek
+1174 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Greek/character01
+1175 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Greek/character02
+1176 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Greek/character03
+1177 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Greek/character04
+1178 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Greek/character05
+1179 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Greek/character06
+1180 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Greek/character07
+1181 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Greek/character08
+1182 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Greek/character09
+1183 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Greek/character10
+1184 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Greek/character11
+1185 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Greek/character12
+1186 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Greek/character13
+1187 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Greek/character14
+1188 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Greek/character15
+1189 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Greek/character16
+1190 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Greek/character17
+1191 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Greek/character18
+1192 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Greek/character19
+1193 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Greek/character20
+1194 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Greek/character21
+1195 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Greek/character22
+1196 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Greek/character23
+1197 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Greek/character24
+1198 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati
+1199 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character01
+1200 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character02
+1201 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character03
+1202 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character04
+1203 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character05
+1204 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character06
+1205 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character07
+1206 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character08
+1207 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character09
+1208 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character10
+1209 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character11
+1210 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character12
+1211 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character13
+1212 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character14
+1213 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character15
+1214 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character16
+1215 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character17
+1216 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character18
+1217 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character19
+1218 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character20
+1219 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character21
+1220 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character22
+1221 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character23
+1222 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character24
+1223 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character25
+1224 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character26
+1225 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character27
+1226 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character28
+1227 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character29
+1228 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character30
+1229 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character31
+1230 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character32
+1231 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character33
+1232 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character34
+1233 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character35
+1234 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character36
+1235 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character37
+1236 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character38
+1237 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character39
+1238 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character40
+1239 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character41
+1240 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character42
+1241 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character43
+1242 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character44
+1243 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character45
+1244 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character46
+1245 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character47
+1246 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Gujarati/character48
+1247 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Hebrew
+1248 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Hebrew/character01
+1249 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Hebrew/character02
+1250 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Hebrew/character03
+1251 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Hebrew/character04
+1252 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Hebrew/character05
+1253 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Hebrew/character06
+1254 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Hebrew/character07
+1255 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Hebrew/character08
+1256 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Hebrew/character09
+1257 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Hebrew/character10
+1258 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Hebrew/character11
+1259 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Hebrew/character12
+1260 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Hebrew/character13
+1261 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Hebrew/character14
+1262 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Hebrew/character15
+1263 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Hebrew/character16
+1264 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Hebrew/character17
+1265 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Hebrew/character18
+1266 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Hebrew/character19
+1267 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Hebrew/character20
+1268 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Hebrew/character21
+1269 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Hebrew/character22
+1270 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Inuktitut_(Canadian_Aboriginal_Syllabics)
+1271 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Inuktitut_(Canadian_Aboriginal_Syllabics)/character01
+1272 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Inuktitut_(Canadian_Aboriginal_Syllabics)/character02
+1273 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Inuktitut_(Canadian_Aboriginal_Syllabics)/character03
+1274 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Inuktitut_(Canadian_Aboriginal_Syllabics)/character04
+1275 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Inuktitut_(Canadian_Aboriginal_Syllabics)/character05
+1276 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Inuktitut_(Canadian_Aboriginal_Syllabics)/character06
+1277 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Inuktitut_(Canadian_Aboriginal_Syllabics)/character07
+1278 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Inuktitut_(Canadian_Aboriginal_Syllabics)/character08
+1279 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Inuktitut_(Canadian_Aboriginal_Syllabics)/character09
+1280 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Inuktitut_(Canadian_Aboriginal_Syllabics)/character10
+1281 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Inuktitut_(Canadian_Aboriginal_Syllabics)/character11
+1282 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Inuktitut_(Canadian_Aboriginal_Syllabics)/character12
+1283 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Inuktitut_(Canadian_Aboriginal_Syllabics)/character13
+1284 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Inuktitut_(Canadian_Aboriginal_Syllabics)/character14
+1285 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Inuktitut_(Canadian_Aboriginal_Syllabics)/character15
+1286 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Inuktitut_(Canadian_Aboriginal_Syllabics)/character16
+1287 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)
+1288 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character01
+1289 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character02
+1290 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character03
+1291 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character04
+1292 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character05
+1293 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character06
+1294 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character07
+1295 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character08
+1296 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character09
+1297 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character10
+1298 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character11
+1299 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character12
+1300 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character13
+1301 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character14
+1302 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character15
+1303 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character16
+1304 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character17
+1305 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character18
+1306 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character19
+1307 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character20
+1308 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character21
+1309 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character22
+1310 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character23
+1311 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character24
+1312 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character25
+1313 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character26
+1314 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character27
+1315 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character28
+1316 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character29
+1317 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character30
+1318 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character31
+1319 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character32
+1320 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character33
+1321 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character34
+1322 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character35
+1323 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character36
+1324 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character37
+1325 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character38
+1326 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character39
+1327 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character40
+1328 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character41
+1329 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character42
+1330 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character43
+1331 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character44
+1332 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character45
+1333 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character46
+1334 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character47
+1335 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character48
+1336 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character49
+1337 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character50
+1338 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character51
+1339 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(hiragana)/character52
+1340 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)
+1341 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character01
+1342 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character02
+1343 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character03
+1344 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character04
+1345 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character05
+1346 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character06
+1347 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character07
+1348 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character08
+1349 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character09
+1350 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character10
+1351 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character11
+1352 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character12
+1353 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character13
+1354 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character14
+1355 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character15
+1356 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character16
+1357 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character17
+1358 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character18
+1359 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character19
+1360 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character20
+1361 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character21
+1362 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character22
+1363 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character23
+1364 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character24
+1365 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character25
+1366 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character26
+1367 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character27
+1368 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character28
+1369 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character29
+1370 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character30
+1371 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character31
+1372 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character32
+1373 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character33
+1374 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character34
+1375 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character35
+1376 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character36
+1377 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character37
+1378 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character38
+1379 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character39
+1380 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character40
+1381 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character41
+1382 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character42
+1383 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character43
+1384 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character44
+1385 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character45
+1386 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character46
+1387 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Japanese_(katakana)/character47
+1388 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean
+1389 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character01
+1390 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character02
+1391 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character03
+1392 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character04
+1393 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character05
+1394 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character06
+1395 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character07
+1396 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character08
+1397 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character09
+1398 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character10
+1399 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character11
+1400 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character12
+1401 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character13
+1402 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character14
+1403 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character15
+1404 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character16
+1405 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character17
+1406 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character18
+1407 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character19
+1408 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character20
+1409 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character21
+1410 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character22
+1411 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character23
+1412 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character24
+1413 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character25
+1414 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character26
+1415 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character27
+1416 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character28
+1417 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character29
+1418 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character30
+1419 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character31
+1420 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character32
+1421 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character33
+1422 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character34
+1423 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character35
+1424 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character36
+1425 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character37
+1426 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character38
+1427 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character39
+1428 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Korean/character40
+1429 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Latin
+1430 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Latin/character01
+1431 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Latin/character02
+1432 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Latin/character03
+1433 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Latin/character04
+1434 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Latin/character05
+1435 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Latin/character06
+1436 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Latin/character07
+1437 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Latin/character08
+1438 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Latin/character09
+1439 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Latin/character10
+1440 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Latin/character11
+1441 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Latin/character12
+1442 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Latin/character13
+1443 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Latin/character14
+1444 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Latin/character15
+1445 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Latin/character16
+1446 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Latin/character17
+1447 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Latin/character18
+1448 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Latin/character19
+1449 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Latin/character20
+1450 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Latin/character21
+1451 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Latin/character22
+1452 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Latin/character23
+1453 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Latin/character24
+1454 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Latin/character25
+1455 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Latin/character26
+1456 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)
+1457 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character01
+1458 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character02
+1459 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character03
+1460 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character04
+1461 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character05
+1462 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character06
+1463 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character07
+1464 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character08
+1465 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character09
+1466 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character10
+1467 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character11
+1468 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character12
+1469 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character13
+1470 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character14
+1471 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character15
+1472 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character16
+1473 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character17
+1474 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character18
+1475 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character19
+1476 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character20
+1477 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character21
+1478 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character22
+1479 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character23
+1480 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character24
+1481 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character25
+1482 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character26
+1483 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character27
+1484 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character28
+1485 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character29
+1486 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character30
+1487 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character31
+1488 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character32
+1489 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character33
+1490 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character34
+1491 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character35
+1492 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character36
+1493 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character37
+1494 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character38
+1495 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character39
+1496 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Malay_(Jawi_-_Arabic)/character40
+1497 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)
+1498 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character01
+1499 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character02
+1500 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character03
+1501 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character04
+1502 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character05
+1503 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character06
+1504 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character07
+1505 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character08
+1506 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character09
+1507 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character10
+1508 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character11
+1509 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character12
+1510 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character13
+1511 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character14
+1512 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character15
+1513 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character16
+1514 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character17
+1515 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character18
+1516 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character19
+1517 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character20
+1518 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character21
+1519 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character22
+1520 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character23
+1521 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character24
+1522 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character25
+1523 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character26
+1524 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character27
+1525 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character28
+1526 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character29
+1527 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character30
+1528 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character31
+1529 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character32
+1530 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character33
+1531 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character34
+1532 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character35
+1533 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character36
+1534 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character37
+1535 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character38
+1536 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character39
+1537 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character40
+1538 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Mkhedruli_(Georgian)/character41
+1539 Coding-folders/coding2/idfk/data/omniglot-py/images_background/N_Ko
+1540 Coding-folders/coding2/idfk/data/omniglot-py/images_background/N_Ko/character01
+1541 Coding-folders/coding2/idfk/data/omniglot-py/images_background/N_Ko/character02
+1542 Coding-folders/coding2/idfk/data/omniglot-py/images_background/N_Ko/character03
+1543 Coding-folders/coding2/idfk/data/omniglot-py/images_background/N_Ko/character04
+1544 Coding-folders/coding2/idfk/data/omniglot-py/images_background/N_Ko/character05
+1545 Coding-folders/coding2/idfk/data/omniglot-py/images_background/N_Ko/character06
+1546 Coding-folders/coding2/idfk/data/omniglot-py/images_background/N_Ko/character07
+1547 Coding-folders/coding2/idfk/data/omniglot-py/images_background/N_Ko/character08
+1548 Coding-folders/coding2/idfk/data/omniglot-py/images_background/N_Ko/character09
+1549 Coding-folders/coding2/idfk/data/omniglot-py/images_background/N_Ko/character10
+1550 Coding-folders/coding2/idfk/data/omniglot-py/images_background/N_Ko/character11
+1551 Coding-folders/coding2/idfk/data/omniglot-py/images_background/N_Ko/character12
+1552 Coding-folders/coding2/idfk/data/omniglot-py/images_background/N_Ko/character13
+1553 Coding-folders/coding2/idfk/data/omniglot-py/images_background/N_Ko/character14
+1554 Coding-folders/coding2/idfk/data/omniglot-py/images_background/N_Ko/character15
+1555 Coding-folders/coding2/idfk/data/omniglot-py/images_background/N_Ko/character16
+1556 Coding-folders/coding2/idfk/data/omniglot-py/images_background/N_Ko/character17
+1557 Coding-folders/coding2/idfk/data/omniglot-py/images_background/N_Ko/character18
+1558 Coding-folders/coding2/idfk/data/omniglot-py/images_background/N_Ko/character19
+1559 Coding-folders/coding2/idfk/data/omniglot-py/images_background/N_Ko/character20
+1560 Coding-folders/coding2/idfk/data/omniglot-py/images_background/N_Ko/character21
+1561 Coding-folders/coding2/idfk/data/omniglot-py/images_background/N_Ko/character22
+1562 Coding-folders/coding2/idfk/data/omniglot-py/images_background/N_Ko/character23
+1563 Coding-folders/coding2/idfk/data/omniglot-py/images_background/N_Ko/character24
+1564 Coding-folders/coding2/idfk/data/omniglot-py/images_background/N_Ko/character25
+1565 Coding-folders/coding2/idfk/data/omniglot-py/images_background/N_Ko/character26
+1566 Coding-folders/coding2/idfk/data/omniglot-py/images_background/N_Ko/character27
+1567 Coding-folders/coding2/idfk/data/omniglot-py/images_background/N_Ko/character28
+1568 Coding-folders/coding2/idfk/data/omniglot-py/images_background/N_Ko/character29
+1569 Coding-folders/coding2/idfk/data/omniglot-py/images_background/N_Ko/character30
+1570 Coding-folders/coding2/idfk/data/omniglot-py/images_background/N_Ko/character31
+1571 Coding-folders/coding2/idfk/data/omniglot-py/images_background/N_Ko/character32
+1572 Coding-folders/coding2/idfk/data/omniglot-py/images_background/N_Ko/character33
+1573 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Ojibwe_(Canadian_Aboriginal_Syllabics)
+1574 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Ojibwe_(Canadian_Aboriginal_Syllabics)/character01
+1575 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Ojibwe_(Canadian_Aboriginal_Syllabics)/character02
+1576 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Ojibwe_(Canadian_Aboriginal_Syllabics)/character03
+1577 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Ojibwe_(Canadian_Aboriginal_Syllabics)/character04
+1578 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Ojibwe_(Canadian_Aboriginal_Syllabics)/character05
+1579 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Ojibwe_(Canadian_Aboriginal_Syllabics)/character06
+1580 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Ojibwe_(Canadian_Aboriginal_Syllabics)/character07
+1581 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Ojibwe_(Canadian_Aboriginal_Syllabics)/character08
+1582 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Ojibwe_(Canadian_Aboriginal_Syllabics)/character09
+1583 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Ojibwe_(Canadian_Aboriginal_Syllabics)/character10
+1584 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Ojibwe_(Canadian_Aboriginal_Syllabics)/character11
+1585 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Ojibwe_(Canadian_Aboriginal_Syllabics)/character12
+1586 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Ojibwe_(Canadian_Aboriginal_Syllabics)/character13
+1587 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Ojibwe_(Canadian_Aboriginal_Syllabics)/character14
+1588 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit
+1589 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character01
+1590 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character02
+1591 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character03
+1592 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character04
+1593 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character05
+1594 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character06
+1595 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character07
+1596 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character08
+1597 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character09
+1598 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character10
+1599 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character11
+1600 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character12
+1601 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character13
+1602 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character14
+1603 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character15
+1604 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character16
+1605 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character17
+1606 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character18
+1607 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character19
+1608 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character20
+1609 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character21
+1610 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character22
+1611 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character23
+1612 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character24
+1613 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character25
+1614 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character26
+1615 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character27
+1616 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character28
+1617 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character29
+1618 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character30
+1619 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character31
+1620 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character32
+1621 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character33
+1622 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character34
+1623 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character35
+1624 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character36
+1625 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character37
+1626 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character38
+1627 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character39
+1628 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character40
+1629 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character41
+1630 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Sanskrit/character42
+1631 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Syriac_(Estrangelo)
+1632 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Syriac_(Estrangelo)/character01
+1633 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Syriac_(Estrangelo)/character02
+1634 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Syriac_(Estrangelo)/character03
+1635 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Syriac_(Estrangelo)/character04
+1636 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Syriac_(Estrangelo)/character05
+1637 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Syriac_(Estrangelo)/character06
+1638 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Syriac_(Estrangelo)/character07
+1639 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Syriac_(Estrangelo)/character08
+1640 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Syriac_(Estrangelo)/character09
+1641 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Syriac_(Estrangelo)/character10
+1642 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Syriac_(Estrangelo)/character11
+1643 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Syriac_(Estrangelo)/character12
+1644 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Syriac_(Estrangelo)/character13
+1645 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Syriac_(Estrangelo)/character14
+1646 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Syriac_(Estrangelo)/character15
+1647 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Syriac_(Estrangelo)/character16
+1648 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Syriac_(Estrangelo)/character17
+1649 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Syriac_(Estrangelo)/character18
+1650 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Syriac_(Estrangelo)/character19
+1651 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Syriac_(Estrangelo)/character20
+1652 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Syriac_(Estrangelo)/character21
+1653 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Syriac_(Estrangelo)/character22
+1654 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Syriac_(Estrangelo)/character23
+1655 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tagalog
+1656 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tagalog/character01
+1657 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tagalog/character02
+1658 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tagalog/character03
+1659 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tagalog/character04
+1660 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tagalog/character05
+1661 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tagalog/character06
+1662 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tagalog/character07
+1663 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tagalog/character08
+1664 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tagalog/character09
+1665 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tagalog/character10
+1666 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tagalog/character11
+1667 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tagalog/character12
+1668 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tagalog/character13
+1669 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tagalog/character14
+1670 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tagalog/character15
+1671 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tagalog/character16
+1672 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tagalog/character17
+1673 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh
+1674 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character01
+1675 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character02
+1676 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character03
+1677 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character04
+1678 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character05
+1679 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character06
+1680 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character07
+1681 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character08
+1682 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character09
+1683 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character10
+1684 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character11
+1685 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character12
+1686 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character13
+1687 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character14
+1688 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character15
+1689 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character16
+1690 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character17
+1691 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character18
+1692 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character19
+1693 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character20
+1694 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character21
+1695 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character22
+1696 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character23
+1697 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character24
+1698 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character25
+1699 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character26
+1700 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character27
+1701 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character28
+1702 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character29
+1703 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character30
+1704 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character31
+1705 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character32
+1706 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character33
+1707 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character34
+1708 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character35
+1709 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character36
+1710 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character37
+1711 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character38
+1712 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character39
+1713 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character40
+1714 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character41
+1715 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character42
+1716 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character43
+1717 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character44
+1718 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character45
+1719 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character46
+1720 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character47
+1721 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character48
+1722 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character49
+1723 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character50
+1724 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character51
+1725 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character52
+1726 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character53
+1727 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character54
+1728 Coding-folders/coding2/idfk/data/omniglot-py/images_background/Tifinagh/character55
+1729 Coding-folders/coding2/idk
+1730 Coding-folders/coding2/idk/__pycache__
+1731 Coding-folders/coding2/ihatelife
+1732 Coding-folders/coding2/kt
+1733 Coding-folders/coding2/lib
+1734 Coding-folders/coding2/lib/en
+1735 Coding-folders/coding2/lib/fr
+1736 Coding-folders/coding2/lib/tts
+1737 Coding-folders/coding2/lib/tts/fr
+1738 Coding-folders/coding2/mc-web
+1739 Coding-folders/coding2/mc-web/public
+1740 Coding-folders/coding2/menu
+1741 Coding-folders/coding2/oauth2-testing
+1742 Coding-folders/coding2/oauth2-testing/templates
+1743 Coding-folders/coding2/poddleocr
+1744 Coding-folders/coding2/reactjs
+1745 Coding-folders/coding2/reactjs/my-app
+1746 Coding-folders/coding2/rpg
+1747 Coding-folders/coding2/rpg/__pycache__
+1748 Coding-folders/coding2/rtcpy
+1749 Coding-folders/coding2/rtcpy/templates
+1750 Coding-folders/coding2/smts
+1751 Coding-folders/coding2/smts/__pycache__
+1752 Coding-folders/coding2/smts/exmsgserv
+1753 Coding-folders/coding2/spobo
+1754 Coding-folders/coding2/spotplay
+1755 Coding-folders/coding2/task
+1756 Coding-folders/coding2/testing
+1757 Coding-folders/coding2/tex
+1758 Coding-folders/coding2/tex/learning
+1759 Coding-folders/coding2/totkostloc
+1760 Coding-folders/coding2/totkostloc/__pycache__
+1761 Coding-folders/codong
+1762 Coding-folders/folder_1

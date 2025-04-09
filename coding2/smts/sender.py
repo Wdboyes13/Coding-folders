@@ -1,0 +1,2 @@
+import smts
+smts.send('localhost', 3000, 1234567890123456, 9876543210987654, 1234567890123456, 'hello world')

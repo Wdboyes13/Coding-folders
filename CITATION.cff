@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use any of this code please use provided citation"
+authors:
+- family-names: "B"
+  given-names: "William"
+  orcid: "https://orcid.org/0009-0005-5742-5709"
+title: "Random Code"
+version: 1.0.0
+doi: 10.5281/zenodo.15179008
+date-released: 2025-04-08
+url: "https://doi.org/10.5281/zenodo.15179008"
+  
+  
