@@ -1,6 +1,11 @@
 import discord
 import socketio
 import asyncio
+import dotenv
+import os
+# in .env file please specify BOT_TOKEN variable
+dotenv.load_dotenv()
+token = os.getenv('BOT_TOKEN')
 # Create a Socket.IO client
 sio = socketio.Client()
 
@@ -47,4 +52,4 @@ async def on_message(message):
         sio.send(message.content)
 
 # Run the bot with your token
-bot.run('MTM1MjU1ODM1NjE4MjcyODcyNg.GZyr_P.O7tv82PvdZt4LBOIZViBUsc3_3byrzMjaoLBdQ')
+bot.run(token)
